@@ -10,7 +10,7 @@ class Circle{
     {
         radius = r;
         cout<<radius<<endl;
-        cout<< 3,14*radius*radius;
+        cout<< 3.14*radius*radius;
     }
 };
 int main(){
