@@ -31,5 +31,4 @@ int main(){
     s1.displayStudentInfo();
     s1.calculateGrade();
     return 0;
-
 }
