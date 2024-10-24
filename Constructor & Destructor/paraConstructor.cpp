@@ -9,7 +9,7 @@ class Complex{
         cout<<"Complex Number: "<<a<<" + "<<b<<" i "<<endl;
     }
 };
-Complex::Complex(int x, int y){ // This is a parameterized constructor
+Complex::Complex(int x, int y){ // This is a parameterized constructor as it is takes two parameters
     a=x;
     b=y;
 
