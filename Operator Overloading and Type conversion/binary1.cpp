@@ -37,7 +37,6 @@ class Distance{
 int main(){
     Distance d1(5,10);
     Distance d2(3,8);
-
     cout<<"Fisrt Distance: ";
     d1.display();
     cout<<"Second Distance: ";
