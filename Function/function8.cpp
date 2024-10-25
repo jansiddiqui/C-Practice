@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int SumArray(int arr[], int size){
     int sum =0;
     for(int i=0; i<size; i++){
